@@ -289,7 +289,6 @@ button,input,textarea{font:inherit}
   gap:34px;
   margin-top:48px;
 }
-.project-card{}
 .project-image{
   aspect-ratio: 1.12 / .9;
   border-radius:18px;
